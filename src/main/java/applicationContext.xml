@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans >
+    <bean id ="Dept" class ="beans.Dept" scope="properties">
+        <property name="deptNo" value="10"></property>
+        <property name = "dname" value="math"></property>
+    </bean>
+    <bean id = "MyDo" class="Do.DeptDo" scope="single"></bean>
+    <!--写逻辑就是找到bean标签， 判断property 属性是否存在，判断ref是否存在，是则进行处理-->
+    <bean id="myService" class="Service.DeptService" scope="single" >
+        <property name="aDo" ref="myDo"></property>
+    </bean>
+</beans>
