@@ -1,12 +1,10 @@
 package test;
 
 import Service.DeptService;
-import beans.Dept;
-import beans.Dog;
-import beans.Student;
-import beans.Teacher;
+import beans.*;
 import config.ApplicationConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import sun.corba.Bridge;
 import util.ApplicationContext;
 
 public class TestMain {
@@ -85,6 +83,12 @@ public class TestMain {
         Dog dog2 = (Dog) configContext.getBean("beans.Dog");
         System.out.println(dog2);
 
+        // 看Student 类中的value 值
+        Student stuuu = (Student) configContext.getBean("student1");
+        System.out.println(stuuu);
+
+        Bird bird = (Bird) configContext.getBean("bird");
+        System.out.println(bird);
 
     }
 }

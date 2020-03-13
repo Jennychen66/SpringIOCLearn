@@ -13,6 +13,7 @@ import util.*;
         @ComponentScan.Filter(type= FilterType.ANNOTATION,value = {Controller.class, Service.class})
 })
 @Import(value = {Dog.class, MyImportSelector.class, MyImportBeanDefRegistrar.class})
+@PropertySource("classpath:/config.properties")
 @Configuration
 public class ApplicationConfig {
 
@@ -42,5 +43,11 @@ public class ApplicationConfig {
     @Bean
     public MyFactoryBean factoryBean(){
         return  new MyFactoryBean();
+    }
+
+    //
+    @Bean
+    public MyBeanPostProcessor postProcessor(){
+        return new MyBeanPostProcessor();
     }
 }

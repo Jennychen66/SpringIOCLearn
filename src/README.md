@@ -71,4 +71,8 @@ AOP 容器： 代理设计模式
                     3.@Import({自定义Bean 对象注册实现类})，可以直接将类注册到Spring容器中 (ImportBeanDefinitionRegistrar)
 
 
-
+6. Bean对象的赋值
+    1）在当前类中指定属性上赋值
+       @Value ： 基本数据，SPEL #{}， 外部属性文件 .properties ${key 名字}
+    2）为工程中所有的类的指定属性赋值 【BeanPostProcessor(后置处理器)】
+    3) BeanPostProcessor 工作原理
