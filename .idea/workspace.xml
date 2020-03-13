@@ -2,26 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11f50c11-96aa-417c-bcb9-128a7f50ef47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/DeptComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/DeptDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/LinuxCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/MyFactoryBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/MyImportSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/WindowsCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/DeptComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/DeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/DeptDo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/beans/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/LinuxCondition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/MyFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/MyImportBeanDefRegistrar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/MyImportSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/WindowsCondition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/DeptComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/DeptComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/DeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/DeptDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/DeptDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/DeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beans/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beans/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/LinuxCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/LinuxCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/MyFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/MyFactoryBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/MyImportSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/MyImportSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/WindowsCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/WindowsCondition.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="385">
+              <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+              <caret line="14" column="76" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#597#598#0" expanded="true" />
@@ -233,70 +247,6 @@
               <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Do" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringIOCLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringIOCLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -304,7 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584088310961" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584088707861" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -354,6 +304,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583226344372</updated>
     </task>
+    <task id="LOCAL-00001" summary="5 methods for registering beans into Spring container">
+      <created>1584088439466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584088439466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -366,10 +324,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49904397" visible="true" weight="0.16360691" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49904397" visible="true" weight="0.20356372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,12 +335,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.5019084" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22738095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4059524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.430605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32977462" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32265717" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32261905" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.38333333" />
@@ -396,6 +353,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5 methods for registering beans into Spring container" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 methods for registering beans into Spring container" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,20 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/ApplicationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#597#598#0" expanded="true" />
@@ -654,6 +605,16 @@
             <element signature="e#799#800#0" expanded="true" />
             <element signature="e#1138#1139#0" expanded="true" />
             <element signature="e#1180#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/MyImportBeanDefRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
